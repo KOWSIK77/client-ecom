@@ -1,4 +1,4 @@
 
-export const TabTitle = ('KMK') => {
-    return ( document.title = 'KMK');
+export const TabTitle = (newTitle) => {
+    return ( document.title = newTitle);
 }
